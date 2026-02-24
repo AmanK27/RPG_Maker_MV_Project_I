@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # ⚔️ RPG Maker MV — Project I
 
@@ -540,4 +540,4 @@ This project contains assets and engine code from **RPG Maker MV** by Kadokawa /
 *Last Updated: June 2018 · Repository Created: June 23, 2018*
 
 </div>
-]]>
+
